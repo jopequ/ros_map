@@ -816,4 +816,9 @@
   long: -1.5554069999995128
   address: Woodhouse Lane, Woodhouse, Leeds LS2 9JT
   description: Institute of Design, Robotics and Optimisation, School of Mechanical Engineering
-  
+- name: TIERS | Turku Intelligent Embedded and Robotic Systems Lab
+  type: school
+  lat: 60.4456535
+  long: 22.3143581
+  address: Tierankatu 8, 20520 Turku, Finland
+  link: https://tiers.utu.fi
